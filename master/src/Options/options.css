@@ -1,0 +1,37 @@
+.options-container{
+    margin-top: 26%;
+    padding-bottom: 25%;
+}
+
+.options-section {
+    margin-top: 10%;
+}
+
+.doctor-option, .patient-option {
+    width: 180px ;
+    padding: 2% ;
+    background-color: #FCEA75 ;
+    border: 2px solid #FCEA75 ;
+    border-radius: 10px ;
+    font-weight: 700;
+}
+
+@media screen and (max-width: 800px) {
+   .options-container {
+       margin-top: 35%
+   }
+}
+
+@media screen and (max-width: 500px) {
+    /* .options-container {
+        margin-top: 120%;
+    } */
+    .options-section {
+        margin-top: 166%;
+    }
+
+    .card {
+        width: 100% !important;
+        margin-bottom: 20px;
+    }
+}
