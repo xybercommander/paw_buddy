@@ -11,3 +11,9 @@ PawBuddy is an initiative to bridge the exisiting communication and accesibility
 ## Tech Stack
 * ReactJS
 * Firebase
+
+## Future Scope
+* Addition of nutrition and water-intake tracker for pet along with vaccine status
+* General guidelines of taking care of your pet 
+* To bring the veterinary doctors closer to the pet owners in need, thereby bridging the current gap that exists
+* Helping animal-care centers (NGOs) conduct pet check-up drives through PawBuddy's platform 
