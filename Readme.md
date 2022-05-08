@@ -1,6 +1,6 @@
 # PawBuddy  &nbsp; 🐶
 
-PawBuddy is an initiative to bridge the exisiting communication and accesibility gap between pet owners in need and veterinary doctors.
+PawBuddy is an initiative to bridge the exisiting communication and accesibility gap between pet owners in need of veterinary doctors.
 
 ## Features 
 * Direct chatting facility between the pet owner and the veterinary doctor 
